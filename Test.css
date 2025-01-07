@@ -1,0 +1,6 @@
+body::before {
+    content: "Hi, Welcome!!";
+    display: block;
+    font-size: 24px;
+    color: black;
+}
